@@ -27196,7 +27196,7 @@ const imageAltText = "This is test image in about page.";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "Just say what happen a world. Hope safe, healty, and ok. ~ Qiqi (Genshin Impact)";
+ */ const detailOrQuote = "Just say what happen a world, I don't know. Hope safe, healty, and ok. ~ Qiqi (Genshin Impact)";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
