@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Just say what happen a world. Hope safe, healty, and ok. ~ Qiqi (Genshin Impact)";
+  "Just say what happen a world, I don't know. Hope safe, healty, and ok. ~ Qiqi (Genshin Impact)";
 
 const About = () => {
   return (
